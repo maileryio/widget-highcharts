@@ -1,0 +1,6 @@
+{
+    "license": "BSD-3-Clause",
+    "dependencies": {
+        "@maileryio/widget-highcharts-assets": "git+ssh://git@github.com/maileryio/widget-highcharts-assets.git#master"
+    }
+}
